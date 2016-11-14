@@ -1,2 +1,2 @@
 # A-Dark-Adventure
-A little game with own drawings.
+Ein kleines Spiel mit eigenen Zeichnungen.

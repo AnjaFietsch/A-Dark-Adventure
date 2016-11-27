@@ -57,11 +57,13 @@ Das Gleiche habe ich auch mit den anderen Bildern gemacht.
 ![Fuß](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2206%5B1%5D.PNG?raw=true)
 
 ![Fuß, selber gemalt](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2219%5B1%5D.JPG?raw=true)
+Den Fuß habe ich zuerst ohne Verletzungen gemalt, damit ich die Schattierungen besser abstimmen konnte. Den Blutverlauf habe ich dannach auf einer neuen Ebene gezeichnet.
 
 ![Schwert](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2222%5B1%5D.PNG?raw=true)
 
 ![Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2223%5B1%5D.PNG?raw=true)
 
+
 ![Schwert und Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/Schwet%20und%20Schild%20Game.jpeg?raw=true)
 
-Bei Letzteren bin ich aber nicht mit der Perspektive zu frieden. Es sollte so aussehen, als ob Schwert und Schild aneinander an der Wand lehen und der Schatten ist in diesem Falle weiß und nicht schwartz. Zum einen, damit man die Umrisse deutlicher sieht und die Bilder sollten dadurch ein wenig leuchten, d´was auch bei den anderen Bildern zutrifft.
+Schwert und Schild habe ich beides nacheinander gezeichnet und abgespeichert, damit ich die beiden Sachen auch noch nicht angelehnt von einander habe. Davon habe ich eine Kopie gemacht, in der ich die linke Seite vom Schild ein wenig verkürtzt und dunkler gefärbt habe. Bei dem Schwert bin ich genauso vorgegangen. Beim letzten Schritt bin ich aber nicht mit der Perspektive zufrieden. Es sollte so aussehen, als ob Schwert und Schild aneinander und an der Wand lehen und der Schatten ist in diesem Falle weiß und nicht schwartz. Zum einen, damit man die Umrisse deutlicher sieht und die Bilder dadurch ein wenig leuchten, was für den anderen Bildern auch zutrifft.

@@ -5,8 +5,8 @@ Ich habe an dem Projekt "A Dark Adventure" alleine gearbeitet, obwohl wir zu zwe
 # A Dark Adventure
 Ein kleines Spiel mit eigenen Zeichnungen.
 
-1. [Vertrautmachen mit App Lab](Vertrautmachen mit App Lab)  
-2. [Kriterien für das Erstellen einer App ]()  
+[1. Vertrautmachen mit App Lab](Vertrautmachen mit App Lab)  
+[2. Kriterien für das Erstellen einer App ]()  
 [3.]()  
 
 ## Vertrautmachen mit App Lab
@@ -28,10 +28,12 @@ Im nächsten Schritt habe ich mir Gedanken gemacht, was man braucht und worauf m
   
 2. Welche Zielgruppe soll angesprochen werden?
   Die Zielgruppe bestimmt wie das Desing, die Nutzersprache und am Ende das ganze Erscheinungsbild der App ausfällt.  
-  -Es gibt verschiedene Millieus, mit denen mn sich vorher auseinander gesetzt haben muss, um seine richtige Zielgruppe zu ermitteln. ich habe mir dabei die Grafik von Sinus-Milieus zu nutze gemacht. [Sinus-Milieus](http://www.sinus-institut.de/sinus-loesungen/sinus-milieus-deutschland/)  Die Zielgruppe soll im Alter von 15-30 Jahren liegen. 
+  -Es gibt verschiedene Millieus, mit denen mn sich vorher auseinander gesetzt haben muss, um seine richtige Zielgruppe zu ermitteln. ich habe mir dabei die Grafik von Sinus-Milieus zu nutze gemacht. ![Sinus-Milieus](http://www.sinus-institut.de/fileadmin/user_data/sinus-institut/Bilder/sinus-mileus-2015/2016-02-08_Website-Abbildungen_Die_Sinus-Milieus_in_Deutschland_2016.png)  Es wird die Mittlere Mittelschicht, die Traditionellen aber auch die Modernisierung, die Bürgerliche Mitte ansprechen. Die Zielgruppe soll im Alter von 15-30 Jahren liegen und spricht auch Menschen älterer Generationen an, weil sie Spiel gespiel hatten, indenen es noch keien menschenähnlichen Animationen gab. In den älteren Spielen wurden meist Geschichten Erzählt, die man durch verschiedene Möglichkeiten beeinflussen konnte. Dazu später mehr.
   
 3. Für Welches Betriebssystem soll die App verwendet werden?
   Das Betreibssystem ist naheliegend mit der Zielgruppe und dem Budget, dass man bereitgestellt hat. Bei einer hohen Zielgruppe für ein   Betriebssyste, ist die Wahrscheinlichkeit höher, das die App geladen wird.
+  - Das Betriebssystem ist schwer auszusuchen, aber da ich mich mehr mit IOS auskenne, würde ich sagen, das man es auf Apple-Geräten spielen kann.
   
 4. Wie soll das Desing ausfallen?
   Das Aussehend der App darf nicht von anderen Seiten oder Apps kopiert werden, aber man kann sich verschiedene Desings anschauen und     sich von ihnen inspirieren lassen.
+  - Für die Idee und das Desing sind mir viel Beispile Eingefallen. Zum einen hat mich das Video von App Lab

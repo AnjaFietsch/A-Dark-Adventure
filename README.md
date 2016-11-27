@@ -63,7 +63,7 @@ Um die verwitterte Textur des Papriers zu kreieren, habe ich verschiedene Braun 
 ![Fuß, selber gemalt](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2219%5B1%5D.JPG?raw=true)
 Den Fuß habe ich zuerst ohne Verletzungen gemalt, damit ich die Schattierungen besser abstimmen konnte. Den Blutverlauf habe ich dannach auf einer neuen Ebene gezeichnet.
 
-![Schwert](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2222%5B1%5D.PNG?raw=true)
+![Schwert](https://s-media-cache-ak0.pinimg.com/236x/f6/ea/59/f6ea5975fc5f2f22f9900418a8f9e9a4.jpg)
 
 ![Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2223%5B1%5D.PNG?raw=true)
 

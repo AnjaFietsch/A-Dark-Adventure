@@ -35,5 +35,5 @@ Im nächsten Schritt habe ich mir Gedanken gemacht, was man braucht und worauf m
   - Das Betriebssystem ist schwer auszusuchen, aber da ich mich mehr mit IOS auskenne, würde ich sagen, das man es auf Apple-Geräten spielen kann.
   
 4. Wie soll das Desing ausfallen?
-  Das Aussehend der App darf nicht von anderen Seiten oder Apps kopiert werden, aber man kann sich verschiedene Desings anschauen und     sich von ihnen inspirieren lassen.
-  - Für die Idee und das Desing sind mir viel Beispile Eingefallen. Zum einen hat mich das Video von App Lab
+  Das Aussehend der App darf nicht von anderen Seiten oder Apps kopiert werden, aber man kann sich verschiedene Desings anschauen und sich von ihnen inspirieren lassen.
+  - Für die Idee und das Desing sind mir viel Beispile Eingefallen. Zum einen hat mich das Video von App Lab "How to make a choose your own adventure Game" dazu inspiriert ein Adventure Game zu machen, weil man dabei sehr viel eigene Fantasie einbringen und eine Art kleine interaktive Geschichte erstellen kann. Ich habe mir auch das Spiel ["A Dark Room"](http://adarkroom.doublespeakgames.com/mobileWarning.html) aus dem Apple Store geladen, um mr die Strucktur nochmal anyuschen. In deisem Fall ist noch sehr viel mehr dazugekommen, als in einem reinen Text-Adventure. Hier wird gezählt, wie viel Einwohner in der Stadt sind, die man sich aufbaut und man kann viele Sachen aus dem Inventar sammeln und verkaufen oder etwas daraus bauen. 

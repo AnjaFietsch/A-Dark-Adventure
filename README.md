@@ -8,6 +8,7 @@ Ein kleines Spiel mit eigenen Zeichnungen.
 [1. Vertrautmachen mit App Lab](#1)     
 [2. Kriterien für das Erstellen einer App ](#2)  
 [3. Erstellen von A Dark Adventure](#3)  
+[4. Reflektion](#4)
 
 ##<a name="1"></a>Vertrautmachen mit App Lab
 In den ersten Stunden habe ich mich mit der Internetseite [App Lab](https://code.org/educate/applab) vertraut gemacht. Ich habe mir die Videos angeschaut und die Aufgaben gemacht, wie man hier sehen kann. ![Kurs 1](https://code.org/v2/hoc/certificate/ewogICJuYW1lIjogIkFuamEiLAogICJjb3Vyc2UiOiAiY291cnNlMSIsCiAgImNvdXJzZV90aXRsZSI6ICJLdXJzIDEiCn0=.jpg)
@@ -72,4 +73,9 @@ Schwert und Schild habe ich beides nacheinander gezeichnet und abgespeichert, da
 
 Die Bilder sollen ein wenig mehr Farbe in das Dark Adventure bringen und damit man sich fragt: Habe ich schon alle Bilder gefunden? Das wäre noch ein Grund, es nocheinmal zu spielen.
 
+##<a name="4"></a>Reflektion
 
+Ich komme nun zum Abschluss meines Projektes und möchte noch hinzufügen, dass es mir wirklich sehr viel Spaß gemacht hat, an dem Mini-Adventure zu arbeiten. Ich habe viel über das Programmieren an sich gelernt und es hat auch sehr viel Freude gemacht di Bilder dafür zu gestalten. Für die Schuhe hatte ich ca. 4 Stunden gebrauch, weil ich noch ein paar neuere Pinsel verwendet habe. Für die anderen Bilder hatte ich ca. zwei Stunden pro Bild benötigt. Ich habe, meiner Meinung nach die Schlagwörter in Bilder verwandelt, die einen besonderen Einfluss auf die Geschichte ausüben. Damit bin ich sehr zufrieden. Sehr gefällt mir das Muster vom Schwert, das ich auch in das Schild mit eingearbeitet habe.
+Ein paar negative Punket muss ich aber auch noch erwähnen, und zwar, dass sich App lab nicht so richtig gut eignet, für Text-Adventure, weil man ein sehr kleinens Teld zum, schreiben hat. Das heißt dann wenn man einen fehler gemacht hat, muss man in diesem kleinen fenster mühevoll danach suchen, obweohl man ihn im Vorschauscreen links schon entdeckt hat. Für mich wäre App Lab also eine Programierplattform, um Apps zu programmieren, die mit eher weniger Text auskommen würden.
+
+Ich hätte ab

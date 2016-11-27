@@ -40,4 +40,5 @@ Im nächsten Schritt habe ich mir Gedanken gemacht, was man braucht und worauf m
   
 ## Erstellen von A Dark Adventure
 
-![Lösungswege für A Dark Adventure](https://drive.google.com/file/d/0B5rEiUxFy3S2TVo1UkhnblJqLXdNaXVQZEhwemZNcFBKSFVJ/view?usp=sharing)
+Für den Anfang von A Dark Adventure habe ich mir eine Mind Map erstellt, mit der ich die einzelnen Wege vernetzt habe. 
+![Lösungswege für A Dark Adventure](https://drive.google.com/file/d/0B5rEiUxFy3S2TVo1UkhnblJqLXdNaXVQZEhwemZNcFBKSFVJ/view?usp=sharing) Ich habe mir viel mühe dabei gegeben, viele spannende Elemente und unerwartete Wendungen reinzubekommen. Auf App Lab habe ich die Screens zuerst schwarz gemacht, dann habe ich mir eine Geschichte dazu ausgedacht und schließlich kann man in zwei verschiedene Richtungen gehen, die ich durch Buttons programiert habe. Jeder Button führt zu einem bestimmten Screen, der dem Nutzer wieder zwei verschiedene Möglichkeiten zum fortfahren gibt.

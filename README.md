@@ -7,7 +7,7 @@ Ein kleines Spiel mit eigenen Zeichnungen.
 
 [1. Vertrautmachen mit App Lab](https://github.com/AnjaFietsch/A-Dark-Adventure#vertrautmachen-mit-app-lab)  
 [2. Kriterien für das Erstellen einer App ](https://github.com/AnjaFietsch/A-Dark-Adventure#kriterien-für-das-erstellen-einer-app)  
-[3. Erstellen von A Dark Adventure]()  
+[3. Erstellen von A Dark Adventure](https://github.com/AnjaFietsch/A-Dark-Adventure#erstellen-von-a-dark-adventure)  
 
 ## Vertrautmachen mit App Lab
 In den ersten Stunden habe ich mich mit der Internetseite [App Lab](https://code.org/educate/applab) vertraut gemacht. Ich habe mir die Videos angeschaut und die Aufgaben gemacht, wie man hier sehen kann. ![Kurs 1](https://code.org/v2/hoc/certificate/ewogICJuYW1lIjogIkFuamEiLAogICJjb3Vyc2UiOiAiY291cnNlMSIsCiAgImNvdXJzZV90aXRsZSI6ICJLdXJzIDEiCn0=.jpg)
@@ -49,8 +49,13 @@ Begonnen habe ich mit leichten Bleistiftlinien, um die Umrisse darzustellen. Als
 Damit man aber nicht einen weißen Kasten in den Screens hat, muss man natürlich auch den Hintergrund schraz einfärben, aber damit sich die Stellen der Schuhe nicht auch mit dunkler färben, muss man den Platz für die Schuhe weiß lassen. Die Farben überlagern sich nämlich von Folie zu Folie immer mehr. ![Schuh, weißer Platz](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2216%5B1%5D.JPG?raw=true)
 Das Gleiche habe ich auch mit den anderen Bildern gemacht.
 ![Fuß](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2206%5B1%5D.PNG?raw=true)
+
 ![Fuß, selber gemalt](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2219%5B1%5D.JPG?raw=true)
+
 ![Schwert](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2222%5B1%5D.PNG?raw=true)
+
 ![Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2223%5B1%5D.PNG?raw=true)
+
 ![Schwert und Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/Schwet%20und%20Schild%20Game.jpeg?raw=true)
+
 Bei Letzteren bin ich aber nicht mit der Perspektive zu frieden. Es sollte so aussehen, als ob Schwert und Schild aneinander an der Wand lehen und der Schatten ist in diesem Falle weiß und nicht schwartz. Zum einen, damit man die Umrisse deutlicher sieht und die Bilder sollten dadurch ein wenig leuchten, d´was auch bei den anderen Bildern zutrifft.

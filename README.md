@@ -6,15 +6,15 @@ Ich habe an dem Projekt "A Dark Adventure" alleine gearbeitet, obwohl wir zu zwe
 Ein kleines Spiel mit eigenen Zeichnungen.
 
 [1. Vertrautmachen mit App Lab](#1)
-[2. Kriterien für das Erstellen einer App ](https://github.com/AnjaFietsch/A-Dark-Adventure#kriterien-für-das-erstellen-einer-app)  
-[3. Erstellen von A Dark Adventure](https://github.com/AnjaFietsch/A-Dark-Adventure#erstellen-von-a-dark-adventure)  
+[2. Kriterien für das Erstellen einer App ](#2)  
+[3. Erstellen von A Dark Adventure](#3)  
 
 ##<a name="1"></a>Vertrautmachen mit App Lab
 In den ersten Stunden habe ich mich mit der Internetseite [App Lab](https://code.org/educate/applab) vertraut gemacht. Ich habe mir die Videos angeschaut und die Aufgaben gemacht, wie man hier sehen kann. ![Kurs 1](https://code.org/v2/hoc/certificate/ewogICJuYW1lIjogIkFuamEiLAogICJjb3Vyc2UiOiAiY291cnNlMSIsCiAgImNvdXJzZV90aXRsZSI6ICJLdXJzIDEiCn0=.jpg)
 In den nächsten Kurseh habe ich die Aufgebn  bearbeitet, bis ich die Funktion verstanden hatte.   
 Die Videos waren sehr hilfreich, zum Verstehn von App Lab und dass sie alle auf Englsich waren, hat mir auch sehr viel Spaß beim zu schauen gemacht.
 
-## Kriterien für das Erstellen einer App 
+##<a name="2"></a> Kriterien für das Erstellen einer App 
 
 Zunächst fange ich an, indem ich den Begriff "App" erkläre.  
 Eine App, oder auch Application Software, ist nicht notwendig für ein System, weshalb es eher als eine Erweiterung, mit denen der Nutzer sein Gerät beliebig erweitern kann, verstanden wird. Es ist ein kleines Computerprogramm, mit denen verschiedenste Zusatzaufgaben bearbeitet werden können. Zum Beispiel kann man mit ihnen die Wartezeit verürzen, indem man eine Sieleapp spiel, oder sie zählen die Schritte, die man täglich läuft, um sich zu erinnern, nicht nur rumzusitzen. 
@@ -38,7 +38,7 @@ Im nächsten Schritt habe ich mir Gedanken gemacht, was man braucht und worauf m
   Das Aussehend der App darf nicht von anderen Seiten oder Apps kopiert werden, aber man kann sich verschiedene Desings anschauen und sich von ihnen inspirieren lassen.
   - Für die Idee und das Desing sind mir viel Beispile Eingefallen. Zum einen hat mich das Video von App Lab "How to make a choose your own adventure Game" dazu inspiriert ein Adventure Game zu machen, weil man dabei sehr viel eigene Fantasie einbringen und eine Art kleine interaktive Geschichte erstellen kann. Ich habe mir auch das Spiel ["A Dark Room"](http://adarkroom.doublespeakgames.com/mobileWarning.html) aus dem Apple Store geladen, um mr die Strucktur nochmal anzuschen. In diesem Fall ist noch sehr viel mehr dazugekommen, als in einem reinen Text-Adventure. Hier wird gezählt, wie viel Einwohner in der Stadt sind, die man sich aufbaut und man kann viele Sachen aus dem Inventar sammeln und verkaufen oder etwas daraus bauen. 
   
-## Erstellen von A Dark Adventure
+##<a name="3"></a> Erstellen von A Dark Adventure
 
 Für den Anfang von A Dark Adventure habe ich mir eine Mind Map erstellt, mit der ich die einzelnen Wege vernetzt habe. 
 ![Lösungswege für A Dark Adventure](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_0862%5B1%5D.PNG) Ich habe mir viel Mühe dabei gegeben, viele spannende Elemente und unerwartete Wendungen reinzubekommen. Auf App Lab habe ich die Screens zuerst schwarz gemacht, dann habe ich mir eine Geschichte dazu ausgedacht und schließlich kann man in zwei verschiedene Richtungen gehen, die ich durch Buttons programiert habe. Jeder Button führt zu einem bestimmten Screen, der dem Nutzer wieder zwei verschiedene Möglichkeiten zum fortfahren gibt.

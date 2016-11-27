@@ -5,8 +5,8 @@ Ich habe an dem Projekt "A Dark Adventure" alleine gearbeitet, obwohl wir zu zwe
 # A Dark Adventure
 Ein kleines Spiel mit eigenen Zeichnungen.
 
-[1. Vertrautmachen mit App Lab](Vertrautmachen mit App Lab)  
-[2. Kriterien für das Erstellen einer App ]()  
+1. [Vertrautmachen mit App Lab](Vertrautmachen mit App Lab)  
+2. [Kriterien für das Erstellen einer App ]()  
 [3.]()  
 
 ## Vertrautmachen mit App Lab

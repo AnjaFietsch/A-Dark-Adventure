@@ -5,11 +5,11 @@ Ich habe an dem Projekt "A Dark Adventure" alleine gearbeitet, obwohl wir zu zwe
 # A Dark Adventure
 Ein kleines Spiel mit eigenen Zeichnungen.
 
-[1. Vertrautmachen mit App Lab](https://github.com/AnjaFietsch/A-Dark-Adventure#vertrautmachen-mit-app-lab)  
+[1. Vertrautmachen mit App Lab](#1)
 [2. Kriterien für das Erstellen einer App ](https://github.com/AnjaFietsch/A-Dark-Adventure#kriterien-für-das-erstellen-einer-app)  
 [3. Erstellen von A Dark Adventure](https://github.com/AnjaFietsch/A-Dark-Adventure#erstellen-von-a-dark-adventure)  
 
-## Vertrautmachen mit App Lab
+##<a name="1"></a>Vertrautmachen mit App Lab
 In den ersten Stunden habe ich mich mit der Internetseite [App Lab](https://code.org/educate/applab) vertraut gemacht. Ich habe mir die Videos angeschaut und die Aufgaben gemacht, wie man hier sehen kann. ![Kurs 1](https://code.org/v2/hoc/certificate/ewogICJuYW1lIjogIkFuamEiLAogICJjb3Vyc2UiOiAiY291cnNlMSIsCiAgImNvdXJzZV90aXRsZSI6ICJLdXJzIDEiCn0=.jpg)
 In den nächsten Kurseh habe ich die Aufgebn  bearbeitet, bis ich die Funktion verstanden hatte.   
 Die Videos waren sehr hilfreich, zum Verstehn von App Lab und dass sie alle auf Englsich waren, hat mir auch sehr viel Spaß beim zu schauen gemacht.
@@ -54,6 +54,9 @@ Damit man aber nicht einen weißen Kasten in den Screens hat, muss man natürlic
 
 Das Gleiche habe ich auch mit den anderen Bildern gemacht.
 
+![Nachricht](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/Nachricht.jpeg?raw=true)
+Um die verwitterte Textur des Papriers zu kreieren, habe ich verschiedene Braun und Gelbtöne mit verschieden großen Pinseln benutzt. Manche machen sehr kleine, feine Punkte und andere sind da etwas grober. Man darf nur nicht übertreiben, denn sonst sieht das Blatt eher angemalt, als verwitert aus.
+
 ![Fuß](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2206%5B1%5D.PNG?raw=true)
 
 ![Fuß, selber gemalt](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2219%5B1%5D.JPG?raw=true)
@@ -63,7 +66,10 @@ Den Fuß habe ich zuerst ohne Verletzungen gemalt, damit ich die Schattierungen 
 
 ![Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2223%5B1%5D.PNG?raw=true)
 
-
 ![Schwert und Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/Schwet%20und%20Schild%20Game.jpeg?raw=true)
 
-Schwert und Schild habe ich beides nacheinander gezeichnet und abgespeichert, damit ich die beiden Sachen auch noch nicht angelehnt von einander habe. Davon habe ich eine Kopie gemacht, in der ich die linke Seite vom Schild ein wenig verkürtzt und dunkler gefärbt habe. Bei dem Schwert bin ich genauso vorgegangen. Beim letzten Schritt bin ich aber nicht mit der Perspektive zufrieden. Es sollte so aussehen, als ob Schwert und Schild aneinander und an der Wand lehen und der Schatten ist in diesem Falle weiß und nicht schwartz. Zum einen, damit man die Umrisse deutlicher sieht und die Bilder dadurch ein wenig leuchten, was für den anderen Bildern auch zutrifft.
+Schwert und Schild habe ich beides nacheinander gezeichnet und abgespeichert, damit ich die beiden Sachen auch noch nicht angelehnt von einander habe. Davon habe ich eine Kopie gemacht, in der ich die linke Seite vom Schild ein wenig verkürtzt und dunkler gefärbt habe. Bei dem Schwert bin ich genauso vorgegangen. Beim letzten Schritt bin ich aber nicht mit der Perspektive zufrieden. Es sollte so aussehen, als ob Schwert und Schild aneinander und an der Wand lehen und der Schatten ist in diesem Falle weiß und nicht schwarz. Zum einen, damit man die Umrisse deutlicher sieht und die Bilder dadurch ein wenig leuchten, was für den anderen Bildern auch zutrifft.
+
+Die Bilder sollen ein wenig mehr Farbe in das Dark Adventure bringen und damit man sich fragt: Habe ich schon alle Bilder gefunden? Das wäre noch ein Grund, es nocheinmal zu spielen.
+
+

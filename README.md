@@ -5,7 +5,7 @@ Ich habe an dem Projekt "A Dark Adventure" alleine gearbeitet, obwohl wir zu zwe
 # A Dark Adventure
 Ein kleines Spiel mit eigenen Zeichnungen.
 
-[1. Vertrautmachen mit App Lab](Vertrautmachen mit App Lab)  
+[1. Vertrautmachen mit App Lab](https://github.com/AnjaFietsch/A-Dark-Adventure#vertrautmachen-mit-app-lab)  
 [2. Kriterien für das Erstellen einer App ]()  
 [3. Erstellen von A Dark Adventure]()  
 
@@ -41,4 +41,16 @@ Im nächsten Schritt habe ich mir Gedanken gemacht, was man braucht und worauf m
 ## Erstellen von A Dark Adventure
 
 Für den Anfang von A Dark Adventure habe ich mir eine Mind Map erstellt, mit der ich die einzelnen Wege vernetzt habe. 
-![Lösungswege für A Dark Adventure](https://drive.google.com/drive/folders/0B5rEiUxFy3S2ajZ4LTJUblZFQmM) Ich habe mir viel mühe dabei gegeben, viele spannende Elemente und unerwartete Wendungen reinzubekommen. Auf App Lab habe ich die Screens zuerst schwarz gemacht, dann habe ich mir eine Geschichte dazu ausgedacht und schließlich kann man in zwei verschiedene Richtungen gehen, die ich durch Buttons programiert habe. Jeder Button führt zu einem bestimmten Screen, der dem Nutzer wieder zwei verschiedene Möglichkeiten zum fortfahren gibt.
+![Lösungswege für A Dark Adventure](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_0862%5B1%5D.PNG) Ich habe mir viel Mühe dabei gegeben, viele spannende Elemente und unerwartete Wendungen reinzubekommen. Auf App Lab habe ich die Screens zuerst schwarz gemacht, dann habe ich mir eine Geschichte dazu ausgedacht und schließlich kann man in zwei verschiedene Richtungen gehen, die ich durch Buttons programiert habe. Jeder Button führt zu einem bestimmten Screen, der dem Nutzer wieder zwei verschiedene Möglichkeiten zum fortfahren gibt.
+
+Ich habe außerdem zu ein paar Screens ein Bild gezeichnet. Dafür habe ich mir eine Vorlage aus dem Internet gesucht und diese auf meine Ansprüche umgewandelt. Für die Bilder habe ich das Programm [Krita](https://krita.org/en/) benutzt und auf einem Tablet gezeichnet. Für den ersten Screen mit Bild habe ich ein Lagerfeuer gewählt, weil es die Stimmung, dass man alleine im Wald am Feuer sitzt unterstützen soll. Man soll denken, dass man sich in dem Augenblick vor dem Lagerfeur befindet. ![Lagerfeuer](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/Feuer.jpeg)
+Für die Schuhe habe ich das Bild von ein paar Herrenschuhen gespiegelt und diese dann gezeichnet. ![Herrenschuhe]()
+Begonnen habe ich mit leichten Bleistiftlinien, um die Umrisse darzustellen. Als nächstes bin ich auf einer neuen Folie die Bleistiftzeichnungen nachgefahren, um schonmal die Outlines fertig zu haben. Nun muss man die Fraben einfügen. Dabei probiert man ein bisschen aus, welche Farben zu den Schuhen passen könnten. Ich habe mich für Rot, Blau und ein leichtes Grün entschieden. Zum Schluss muss alles nur noch schattiert werden , damit die Scuhe auch plastisch aussehen. ![Schuh, Schattenfolie](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2213%5B1%5D.JPG?raw=true) Hier kann man gut sehen, was ich mit "Ebene" meine. Es gibt die Funktion neue Ebenen einzufügen und mit anderen verschmelzen zu lassen. Die Ebenen können auch einzeln an- und ausgeschaltet werden, wenn man sich nicht sicher ist, ob eine Änderung gut war, oder nicht, anstatt sie neu hinzumalen und wieder wegzuradieren, denn auf den Ebenen ist alles, was sich nicht auf ihnen befindet fest und kann nich verändert werden. Herrausgekommen ist dann das hier: ![Schuh, selbst gezeichnet](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2214%5B1%5D.JPG?raw=true)
+Damit man aber nicht einen weißen Kasten in den Screens hat, muss man natürlich auch den Hintergrund schraz einfärben, aber damit sich die Stellen der Schuhe nicht auch mit dunkler färben, muss man den Platz für die Schuhe weiß lassen. Die Farben überlagern sich nämlich von Folie zu Folie immer mehr. ![Schuh, weißer Platz](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2216%5B1%5D.JPG?raw=true)
+Das Gleiche habe ich auch mit den anderen Bildern gemacht.
+![Fuß](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2206%5B1%5D.PNG?raw=true)
+![Fuß, selber gemalt](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2219%5B1%5D.JPG?raw=true)
+![Schwert](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2222%5B1%5D.PNG?raw=true)
+![Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/IMG_2223%5B1%5D.PNG?raw=true)
+![Schwert und Schild](https://github.com/AnjaFietsch/A-Dark-Adventure/blob/master/Schwet%20und%20Schild%20Game.jpeg?raw=true)
+Bei Letzteren bin ich aber nicht mit der Perspektive zu frieden. Es sollte so aussehen, als ob Schwert und Schild aneinander an der Wand lehen und der Schatten ist in diesem Falle weiß und nicht schwartz. Zum einen, damit man die Umrisse deutlicher sieht und die Bilder sollten dadurch ein wenig leuchten, d´was auch bei den anderen Bildern zutrifft.

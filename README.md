@@ -6,7 +6,7 @@ Ich habe an dem Projekt "A Dark Adventure" alleine gearbeitet, obwohl wir zu zwe
 Ein kleines Spiel mit eigenen Zeichnungen.
 
 [1. Vertrautmachen mit App Lab](https://github.com/AnjaFietsch/A-Dark-Adventure#vertrautmachen-mit-app-lab)  
-[2. Kriterien für das Erstellen einer App ]()  
+[2. Kriterien für das Erstellen einer App ](https://github.com/AnjaFietsch/A-Dark-Adventure#kriterien-für-das-erstellen-einer-app)  
 [3. Erstellen von A Dark Adventure]()  
 
 ## Vertrautmachen mit App Lab
